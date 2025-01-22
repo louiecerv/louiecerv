@@ -9,12 +9,6 @@ I'm a passionate software developer with a keen interest in developing scalable 
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools & Platforms:** Git, Docker
 
-## Projects
-Here are a few projects I've worked on:
-- **[Project Name](link-to-project):** Brief description of what the project is about.
-- **[Project Name](link-to-project):** Brief description of what the project is about.
-- **[Project Name](link-to-project):** Brief description of what the project is about.
-
 ## Open Source Contributions
 - **[Repository Name](link-to-repository):** Description of the contribution.
 - **[Repository Name](link-to-repository):** Description of the contribution.
@@ -24,8 +18,6 @@ Here are a few projects I've worked on:
 - **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
 - **Facebook:** [Louie Cervantes](https://fb.com/louiecerv)
 
-## GitHub Stats
-![Louie Cerv's GitHub stats](https://github-readme-stats.vercel.app/api?username=louiecerv&show_icons=true&theme=radical)
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=louiecerv&layout=compact&theme=radical)
